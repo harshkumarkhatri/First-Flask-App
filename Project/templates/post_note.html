@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<body>
+    <form method="post" action="/post_note">
+    	{{ Heading }} <br/>
+        {{ Note }}
+        <p><a href="{{ url_for('edit_note') }}">Edit/Update Note</a></p>
+    </form>
+</html>
+
