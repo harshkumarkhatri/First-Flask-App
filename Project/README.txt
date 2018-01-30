@@ -7,3 +7,4 @@ pip 9.0.1
 Flask version: '0.12.2'
 PyDrive
 WTForms
+Generated client_secrets.json file in the same directory 
